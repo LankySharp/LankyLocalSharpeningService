@@ -1,123 +1,43 @@
----
-layout: default
----
+### 24hr Turnaround [[Drop-Off]] Service 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Simple, secure dropbox (and pick-up) access. I’ll provide clear instructions to my home drop location in Big Lake, MN. Fast turnaround keeps me warm in the winter and your tools back into action.
 
-[Link to another page](./another-page.html).
+Just roll your tools in a hand towel or anything on hand and leave them for me to freshen up within a day!
 
-There should be whitespace between paragraphs.
+### [[Mobile]] Sharpening 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+$100 minimum for mobile sharpening service and I'll drive to any metro area location. 
+(Example: 11 blades under 13" and a pair of kitchen shears)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I can supply my own power/workspace with just a small table setup outdoors and out of the way.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+*** 
+### [[Pricing]]
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+| **Item**                                                                         | **Cost**                        |
+| -------------------------------------------------------------------------------- | ------------------------------- |
+| Blades (including serrated)                                                      | $8                              |
+| Blades 13+ inches                                                                | $15                             |
+| Complete whetstone sharpening                                                    | $20                             |
+| One-handed gardening tools (e.g., pruners)                                       | $8                              |
+| Two-handed manual garden tools (loppers, hedge trimmers, shovels)                | $10                             |
+| Shears (kitchen, fabric, industrial, curved grooming, straight hair)             | $10                             |
+| Convex shears                                                                    | Coming soon!                    |
+| Wood chisels, hand planes                                                        | $12                             |
+| Lawnmower blades up to 24"                                                       | $8 + $1 per inch over 24"       |
+| Custom work, complete restorations, handmade knives, and certain Japanese knives | Let's talk, we can work it out! |
 
-```
-The final element.
-```
+
+All prices include even and matching bevel(s) set as the tool is intended to be used, satin finished, and stropped to last for months with proper care. In addition to sharpening, necessary hinges/pivots will be oiled, and handles lightly buffed.  
+
+Please inquire regarding specialty tools, powered blade equipment, etc. 
+
+### [[Contact]]: 
+
+Call or Text anytime! Kenny | [218-640-1145](tel:218-640-1145)
+
+Email: KennyFlagg@outlook.com
+
+**If it can dull, I‘ll make it sharp!**
